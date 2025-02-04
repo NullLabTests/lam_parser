@@ -27,5 +27,6 @@ cd lam_parser
 ```bash
 cargo build
 cargo run
+cargo run -- --file=prolog.pl --output=output.txt --debug
 ```
 
